@@ -1,5 +1,8 @@
 import React from 'react';
 //import logo from './logo.svg';
+//import $ from 'jquery';
+//require("./node_modules/bootstrap/dist/css/bootstrap.min.css")
+//require("./node_modules/bootstrap/js/dropdown.js")
 import 'bootstrap';
 import './App.css';
  // eslint-disable-next-line
