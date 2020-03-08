@@ -1,6 +1,5 @@
 # CoronaVirus Tracker/ Traveler Info
-Michael Rendon , Kevin Chawla , Nforninwe Nformi https://github.com/pecefulpro , 
-Team members names and links to profiles (websites, LinkedIn, GitHub, Twitter, etc.)
+Michael Rendon https://github.com/NovaDream2, Kevin Chawla https://github.com/kxc3244 , Nforninwe Nformi https://github.com/pecefulpro, Luis Camancho https://github.com/kxc3244
 
 ## Table of Contents
 
@@ -13,7 +12,7 @@ Team members names and links to profiles (websites, LinkedIn, GitHub, Twitter, e
 [*Optional* ViruSpy Testing and Validation](#testing_and_validation)    
 [*Optional* Additional Functionality](#additional)    
 
-## <a name="intro"></a>What is *CoronaVirisTracker*?
+## <a name="intro"></a>What is *CoronaVirusTracker*?
 
 The CoronaVirusTracker is in essence an web-app in which provides travel information on countries with a focus on coronavirus's impact on possible travel. Our open data source  is from the CDC (https://data.cdc.gov/). Our idea came about by looking for a possible solution for the detterence of an unfortuanate diesease that plagues our current world. 
 
