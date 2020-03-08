@@ -1,5 +1,5 @@
 # CoronaVirus Tracker/ Traveler Info
-Michael Rendon , Kevin Chawla , Nforninwe Nformi, 
+Michael Rendon , Kevin Chawla , Nforninwe Nformi https://github.com/pecefulpro , 
 Team members names and links to profiles (websites, LinkedIn, GitHub, Twitter, etc.)
 
 ## Table of Contents
@@ -8,8 +8,8 @@ Team members names and links to profiles (websites, LinkedIn, GitHub, Twitter, e
 [Why is this important?](#importance)    
 [*CoronaVirus Tracker / Traveler Info* Workflow](#workflow)    
 [Quickstart](#quickstart)    
-[Installing *insert name*](#install)    
-[Running *insert name*](#usage)    
+[Installing *CoronaVirus Tracler*](#install)    
+[Running *Coronavirus Tracker*](#usage)    
 [*Optional* ViruSpy Testing and Validation](#testing_and_validation)    
 [*Optional* Additional Functionality](#additional)    
 
@@ -27,14 +27,14 @@ This is important because COVID-19 ( commonly known as the coronavirus), effects
 Write about how the project was completed, including assumptions made, how any data was joined or parsed, and other features explaining functionality, design, and workflow. Include any dependencies. Write in layman's terms.
 
 
-## <a name="install"></a>Installing ViruSpy
-Write the full steps for installation for someone who is not a programmer, including links and steps for additional tools they need to have for your project to work.
+## <a name="install"></a>Installing  CoronavirusTracker
+No Installation needed. It is an web-app. 
+Write the full steps for installation for someone who is not a programmer, including links and steps for additional tools they need to have for your project to work. Here is the link:
 
 Required software
-+ List here
-+ List here
++ Web browser
 
-
-## <a name="testing_and_validation"></a>ViruSpy Testing and Validation
-
+## <a name="testing_and_validation"></a>CoronaVirus Testing and Validation
+We ran our web applcication on various systems to test for functionality.
 ## <a name="additional"></a>Additional Functionality
+We have given the feneral information about the virus and how to tackle the virus.
